@@ -2,7 +2,7 @@ import pg8000
 import getpass
 
 credentials = {'user': 'kdymowsk',
-				'password':'5418clqe',
+				'password':'password',
 				'database':'csci403',
 				'host': 'flowers.mines.edu'}
 
